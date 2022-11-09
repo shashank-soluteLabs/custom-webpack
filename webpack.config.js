@@ -18,7 +18,7 @@ module.exports = ({ mode } = { mode: "production" }) => {
       output: {
         publicPath: "/",
         path: path.resolve(__dirname, "build"),
-        filename: "bundle.js",
+        filename: "js/[name].bundle.js",
       },
       module: {
         rules: [

@@ -6,7 +6,7 @@ const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 module.exports = () => ({
   devtool: "nosources-source-map",
   output: {
-    filename: "production.js",
+    filename: "js/[name].production.js",
   },
   optimization: {
     minimizer: [
@@ -29,13 +29,20 @@ module.exports = () => ({
         use: [
           {
             loader: "file-loader",
+            options: {
+              outputPath: "images",
+            },
           },
         ],
       },
     ],
   },
   plugins: [
-    new MiniCssExtractPlugin(),
+    new MiniCssExtractPlugin({
+      // plugin for controlling how compiled css will be outputted and named
+      filename: "css/[name].css",
+      chunkFilename: "css/[id].css",
+    }),
     new CleanWebpackPlugin({
       cleanOnceBeforeBuildPatterns: [
         "css/*.*",
