@@ -6,6 +6,13 @@ module.exports = () => ({
         use: ["style-loader", "css-loader", "sass-loader"],
       },
       {
+        test: /\.css$/,
+        use: [
+          "style-loader",
+          "css-loader", "postcss-loader",
+          ],
+      },
+      {
         test: /\.(png|svg|jpg|jpeg|gif)$/,
         use: [
           {

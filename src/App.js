@@ -16,7 +16,7 @@ function App() {
         <p>
           <img src={slt} alt="slt logo"/>
         </p>
-        <p className="counter-text">Counter for count</p>
+        <p className="counter-text text-xl">Counter for count</p>
         <p>{count}</p>
         <button onClick={handleClick}>Click Me</button>
       </header>
