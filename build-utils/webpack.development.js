@@ -16,16 +16,21 @@ module.exports = () => ({
           },
         ],
       },
-      { // config for fonts
+      {
+        // config for fonts
         test: /\.(woff|woff2|eot|ttf|otf)$/,
         use: [
           {
-            loader: 'file-loader',
+            loader: "file-loader",
             options: {
-              outputPath: 'fonts',
-            }
-          }
+              outputPath: "fonts",
+            },
+          },
         ],
+      },
+      {
+        test: /\.(csv|tsv)$/,
+        use: ["csv-loader"],
       },
     ],
   },

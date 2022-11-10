@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { hot } from "react-hot-loader";
 import "./styles/app.scss";
 import slt from "./images/slt.png"
+import sample from "./sample.csv"
 
 function App() {
   const [count, setCount] = useState(0);
@@ -22,5 +23,7 @@ function App() {
     </div>
   );
 }
+
+// console.log("scv", sample);
 
 export default hot(module)(App);
