@@ -1,10 +1,23 @@
 body {
   margin: 0;
 }
+
+@font-face {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Mulish-Italic-VariableFont_wght.ttf");
+}
+
 .App {
   display: flex;
   justify-content: center;
   align-items: center;
   background: rgba(rgb(240, 135, 135), 0.2);
   height: 100vh;
+}
+
+.counter-text {
+  color: red;
+  font-family: "Mulish", sans-serif;
 }
