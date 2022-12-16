@@ -10,7 +10,7 @@ const LoadApp = Loadable({
       </div>
     );
   },
-  timeout: 10000, // 10 seconds
+  timeout: 5000, // 5 seconds
 });
 export default class LoadableApp extends Component {
   render() {
