@@ -1,0 +1,32 @@
+{
+  "id": "645fc21dc6cf3100018f1532",
+  "title": "Stress 3 Nurse STOP test",
+  "nickname": "nickname",
+  "show_nickname": false,
+  "description": null,
+  "can_modify_attributes": true,
+  "keywords": null,
+  "slug": "stress-3-nurse-stop-test-2",
+  "is_stopping_point": false,
+  "resource_type": "page",
+  "url": null,
+  "html_content": "<p style=\"text-align:center;\"><span style=\"color: rgb(37,130,205);background-color: rgb(255,255,255);font-size: 24px;font-family: Lato, sans-serif;\"><strong>If you have time, try out an activity from the stress reduction app intervention!</strong></span></p>\n<p></p>\n<p style=\"text-align:center;\"><span style=\"color: rgb(89,89,89);background-color: transparent;font-size: 24px;font-family: Lato, sans-serif;\"><strong>Directions: </strong>Take a minute to write or say three things that you are thankful for today.</span></p>\n<p style=\"text-align:center;\"></p>\n<p style=\"text-align:center;\"></p>\n<p></p>\n<img src=\"data:image/png;base64,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\" alt=\"undefined\" style=\"height: auto;width: 100%\"/>\n<p style=\"text-align:center;\"><span style=\"color: rgb(37,130,205);background-color: rgb(255,255,255);font-size: 48px;font-family: Lato, sans-serif;\">Wait for directions from your teacher.</span></p>\n",
+  "created_at": "2023-05-13T17:00:13.038Z",
+  "updated_at": "2023-05-13T17:06:35.515Z",
+  "polls": [],
+  "author": {
+    "id": "6362d6e0662a09000121aa47",
+    "email": "pratha.avashia@solutelabs.com",
+    "first_name": "Pratha",
+    "last_name": "Avashia",
+    "full_name": "Pratha Avashia",
+    "role": "admin",
+    "avatar": null,
+    "gender": "male",
+    "birthday": null
+  },
+  "media": null,
+  "large_canvas_image": null,
+  "module_documents": [],
+  "discussions": []
+}

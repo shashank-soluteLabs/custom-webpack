@@ -1,0 +1,95 @@
+{
+  "id": "64546004c6cf3100018f1234",
+  "title": "Stress 1 Jasmine Canvas",
+  "nickname": "Meeting Prep!",
+  "show_nickname": false,
+  "description": null,
+  "can_modify_attributes": true,
+  "keywords": null,
+  "slug": "stress-1-jasmine-canvas",
+  "is_stopping_point": false,
+  "resource_type": "canvas",
+  "url": null,
+  "html_content": "<p style=\"text-align:start;\"><span style=\"color: #2582cd;font-size: 24px;\">Review your diagram and mark your decision whether or not to continue participating on the campaign team.</span></p>\n<p></p>\n<p><span style=\"color: #cd2582;font-size: 24px;\">Refer to your notes in your workbook to remind yourself of your stressors.</span></p>\n<p></p>\n<p><span style=\"color: #2582cd;font-size: 24px;\">Then, answer the quetions below to make sure you are prepared for the meeting presentation.</span></p>\n",
+  "created_at": "2023-05-05T01:46:44.045Z",
+  "updated_at": "2023-05-05T11:12:37.761Z",
+  "polls": [],
+  "author": {
+    "id": "6362d6e0662a09000121aa47",
+    "email": "pratha.avashia@solutelabs.com",
+    "first_name": "Pratha",
+    "last_name": "Avashia",
+    "full_name": "Pratha Avashia",
+    "role": "admin",
+    "avatar": null,
+    "gender": "male",
+    "birthday": null
+  },
+  "media": {
+    "id": "64546007c6cf3100018f1239",
+    "name": "1683251207-img.png",
+    "type": "image",
+    "url": "https://bioscann-staging.s3.amazonaws.com/media/images/1683251207-img.png",
+    "created_at": "2023-05-05T01:46:47.369Z",
+    "updated_at": "2023-05-05T01:46:48.649Z",
+    "resized_media": null
+  },
+  "large_canvas_image": null,
+  "module_documents": [],
+  "discussions": [
+    {
+      "id": "64546004c6cf3100018f1235",
+      "title": null,
+      "text": null,
+      "order": 0,
+      "discussion_type": "canvas",
+      "latest_user_discussion_entry": null,
+      "media": null
+    },
+    {
+      "id": "6454ce3dc6cf3100018f1280",
+      "title": "<p><span style=\"color: #cd7025;font-size: 24px;\">What is the hippocampus responsible for and what is its role in the acute stress response?</span></p>\n",
+      "text": null,
+      "order": 1,
+      "discussion_type": "text",
+      "latest_user_discussion_entry": null,
+      "media": null
+    },
+    {
+      "id": "6454ce3dc6cf3100018f1281",
+      "title": "<p><span style=\"color: #cd7025;font-size: 24px;\">How does chronic stress impact the hippocampus and memory/learning?</span></p>\n",
+      "text": null,
+      "order": 2,
+      "discussion_type": "text",
+      "latest_user_discussion_entry": null,
+      "media": null
+    },
+    {
+      "id": "6454ce3dc6cf3100018f1282",
+      "title": "<p><span style=\"color: rgb(205,112,37);font-size: 24px;\">Why did you decide to continue participating on the public health campaign team or not? What are the pros and cons of your choice?</span></p>\n",
+      "text": null,
+      "order": 3,
+      "discussion_type": "text",
+      "latest_user_discussion_entry": null,
+      "media": null
+    },
+    {
+      "id": "6454e4a5c6cf3100018f1288",
+      "title": "<p><span style=\"color: #cd7025;font-size: 24px;\">What is the prefrontal cortex responsible for and what is its role in the acute stress response?</span></p>\n",
+      "text": null,
+      "order": 4,
+      "discussion_type": "text",
+      "latest_user_discussion_entry": null,
+      "media": null
+    },
+    {
+      "id": "6454e4a5c6cf3100018f1289",
+      "title": "<p><span style=\"color: #cd7025;font-size: 24px;\">How does chronic stress impact the prefrontal cortex? How is this related to Substance Use Disorder?</span></p>\n",
+      "text": null,
+      "order": 5,
+      "discussion_type": "text",
+      "latest_user_discussion_entry": null,
+      "media": null
+    }
+  ]
+}

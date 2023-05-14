@@ -1,0 +1,531 @@
+{
+  "id": "63c6d9fca0bc49000179409d",
+  "title": "Stress 4 Poll",
+  "nickname": "Poll",
+  "show_nickname": true,
+  "description": null,
+  "can_modify_attributes": false,
+  "keywords": null,
+  "slug": "stress-4-poll-2",
+  "is_stopping_point": false,
+  "resource_type": "poll",
+  "url": null,
+  "html_content": "<p><font size=\"5\"><b><font color=\"#2582CD\">Day 4 Poll</font></b></font></p>",
+  "created_at": "2023-01-17T17:25:16.969Z",
+  "updated_at": "2023-01-17T17:31:52.875Z",
+  "polls": [
+    {
+      "id": "63c6d9fca0bc49000179409e",
+      "text": "",
+      "resource_id": "63c6d9fca0bc49000179409d",
+      "created_at": "2023-01-17T17:25:16.976Z",
+      "updated_at": "2023-01-17T17:25:16.976Z",
+      "author": {
+        "id": "5cc9fe08cfedb8000aa409ec",
+        "email": "jessicawilks88@gmail.com",
+        "first_name": "Admin",
+        "last_name": "Account",
+        "full_name": "Admin Account",
+        "role": "superadmin",
+        "avatar": {
+          "_id": "5cd0988289e623000ab68d46",
+          "created_at": "2019-05-06T20:26:42.156Z",
+          "deleted_at": null,
+          "folder": "media/images",
+          "key": "media/images/1557174402-tufts_logo.jpg",
+          "media_type": "resource",
+          "mediable_id": {
+            "$oid": "5cc9fe08cfedb8000aa409ec"
+          },
+          "mediable_type": "User",
+          "name": "1557174402-tufts_logo.jpg",
+          "original_media_id": null,
+          "owner_id": {
+            "$oid": "5cc9fe08cfedb8000aa409ec"
+          },
+          "path": "media/images/1557174402-tufts_logo.jpg",
+          "size": 0,
+          "type": "image",
+          "updated_at": "2019-05-06T20:26:42.226Z",
+          "id": "5cd0988289e623000ab68d46"
+        },
+        "gender": "male",
+        "birthday": null
+      },
+      "poll_questions": [
+        {
+          "id": "63c6d9fca0bc49000179409f",
+          "text": "<p><span style=\"color: #cd7025;background-color: rgb(255,255,255);font-size: 24px;font-family: Lato, sans-serif;\">Which stress-reducing intervention do we want to promote to students?</span></p>\n",
+          "score": null,
+          "order": 1,
+          "question_type": "bar_chart",
+          "allowed_answers_number": 1,
+          "created_at": "2023-01-17T17:31:52.976Z",
+          "updated_at": "2023-01-17T17:31:52.976Z",
+          "poll_question_options": [
+            {
+              "id": "63c6d9fca0bc4900017940a0",
+              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Mindfulness Curriculum</span></p>\n",
+              "order": null,
+              "is_correct": false,
+              "meta_responses": {
+                "average": 0,
+                "count": 0,
+                "total": 0
+              },
+              "created_at": "2023-01-17T17:31:52.961Z",
+              "updated_at": "2023-01-17T17:31:52.961Z"
+            },
+            {
+              "id": "63c6d9fca0bc4900017940a1",
+              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Stress reduction app</span></p>\n",
+              "order": null,
+              "is_correct": false,
+              "meta_responses": {
+                "average": 0,
+                "count": 0,
+                "total": 0
+              },
+              "created_at": "2023-01-17T17:31:52.964Z",
+              "updated_at": "2023-01-17T17:31:52.964Z"
+            },
+            {
+              "id": "63c6d9fca0bc4900017940a2",
+              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Exercise Program</span></p>\n",
+              "order": null,
+              "is_correct": false,
+              "meta_responses": {
+                "average": 0,
+                "count": 0,
+                "total": 0
+              },
+              "created_at": "2023-01-17T17:31:52.968Z",
+              "updated_at": "2023-01-17T17:31:52.968Z"
+            },
+            {
+              "id": "63c6d9fca0bc4900017940a3",
+              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Gratitude Journal</span></p>\n",
+              "order": null,
+              "is_correct": false,
+              "meta_responses": {
+                "average": 0,
+                "count": 0,
+                "total": 0
+              },
+              "created_at": "2023-01-17T17:31:52.971Z",
+              "updated_at": "2023-01-17T17:31:52.971Z"
+            },
+            {
+              "id": "63c6d9fca0bc4900017940a4",
+              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Getting out into nature</span></p>\n",
+              "order": null,
+              "is_correct": false,
+              "meta_responses": {
+                "average": 0,
+                "count": 0,
+                "total": 0
+              },
+              "created_at": "2023-01-17T17:31:52.974Z",
+              "updated_at": "2023-01-17T17:31:52.974Z"
+            }
+          ]
+        },
+        {
+          "id": "63c6d9fca0bc4900017940a5",
+          "text": "<p><span style=\"color: rgb(205,112,37);font-size: 24px;\">Which factor was most important in your decision?</span></p>\n",
+          "score": null,
+          "order": 2,
+          "question_type": "pie_chart",
+          "allowed_answers_number": 2,
+          "created_at": "2023-01-17T17:31:52.994Z",
+          "updated_at": "2023-01-17T17:31:52.994Z",
+          "poll_question_options": [
+            {
+              "id": "63c6d9fda0bc4900017940a6",
+              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Efficacy</span></p>\n",
+              "order": null,
+              "is_correct": false,
+              "meta_responses": {
+                "average": 0,
+                "count": 0,
+                "total": 0
+              },
+              "created_at": "2023-01-17T17:31:52.986Z",
+              "updated_at": "2023-01-17T17:31:52.986Z"
+            },
+            {
+              "id": "63c6d9fda0bc4900017940a7",
+              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Feasibility</span></p>\n",
+              "order": null,
+              "is_correct": false,
+              "meta_responses": {
+                "average": 0,
+                "count": 0,
+                "total": 0
+              },
+              "created_at": "2023-01-17T17:31:52.989Z",
+              "updated_at": "2023-01-17T17:31:52.989Z"
+            },
+            {
+              "id": "63c6d9fda0bc4900017940a8",
+              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;font-family: Lato, sans-serif;\">Relevance</span></p>\n",
+              "order": null,
+              "is_correct": false,
+              "meta_responses": {
+                "average": 0,
+                "count": 0,
+                "total": 0
+              },
+              "created_at": "2023-01-17T17:31:52.993Z",
+              "updated_at": "2023-01-17T17:31:52.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "author": {
+    "id": "5cc9fe08cfedb8000aa409ec",
+    "email": "jessicawilks88@gmail.com",
+    "first_name": "Admin",
+    "last_name": "Account",
+    "full_name": "Admin Account",
+    "role": "superadmin",
+    "avatar": {
+      "_id": "5cd0988289e623000ab68d46",
+      "created_at": "2019-05-06T20:26:42.156Z",
+      "deleted_at": null,
+      "folder": "media/images",
+      "key": "media/images/1557174402-tufts_logo.jpg",
+      "media_type": "resource",
+      "mediable_id": {
+        "$oid": "5cc9fe08cfedb8000aa409ec"
+      },
+      "mediable_type": "User",
+      "name": "1557174402-tufts_logo.jpg",
+      "original_media_id": null,
+      "owner_id": {
+        "$oid": "5cc9fe08cfedb8000aa409ec"
+      },
+      "path": "media/images/1557174402-tufts_logo.jpg",
+      "size": 0,
+      "type": "image",
+      "updated_at": "2019-05-06T20:26:42.226Z",
+      "id": "5cd0988289e623000ab68d46"
+    },
+    "gender": "male",
+    "birthday": null
+  },
+  "media": null,
+  "large_canvas_image": null,
+  "module_documents": [
+    {
+      "id": "635991ec662a09000121a849",
+      "title": "Stress 4 Product Manager",
+      "slug": "module-stress-4-product-manager",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Product Manager- Part 2",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": {
+        "id": "62270991662a090001218a00",
+        "title": "Stress Public Health Campaign",
+        "nickname": "Stress",
+        "field_to_display": "title",
+        "state": "unlocked",
+        "description": null,
+        "created_at": "2022-03-08T07:45:21.834Z",
+        "updated_at": "2023-01-13T14:31:53.376Z",
+        "module_categories": [
+          {
+            "id": "62270991662a0900012189fe",
+            "name": "Day",
+            "slug": "day",
+            "field_type": "integer",
+            "module_collection": null,
+            "facet_values": ["1", "2", "3", "4"],
+            "is_main_query": true
+          },
+          {
+            "id": "62270991662a0900012189ff",
+            "name": "Role",
+            "slug": "role",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "Jasmine",
+              "Trey",
+              "Mariana",
+              "Khalil",
+              "Ash",
+              "Epidemiologist",
+              "Health Economist",
+              "Healthcare Data Analyst",
+              "Actuary",
+              "Certified Occupational Therapist Assistant",
+              "Product Manager",
+              "Health Education Specialist",
+              "Instructional Coordinator",
+              "Nonprofit Program Manager",
+              "Nurse"
+            ],
+            "is_main_query": false
+          }
+        ]
+      },
+      "module_session": null
+    },
+    {
+      "id": "6359922b662a09000121a84c",
+      "title": "Stress 4 Instructional Coordinator",
+      "slug": "module-stress-4-instructional-coordinator",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Instructional Coordinator- Part 2",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": {
+        "id": "62270991662a090001218a00",
+        "title": "Stress Public Health Campaign",
+        "nickname": "Stress",
+        "field_to_display": "title",
+        "state": "unlocked",
+        "description": null,
+        "created_at": "2022-03-08T07:45:21.834Z",
+        "updated_at": "2023-01-13T14:31:53.376Z",
+        "module_categories": [
+          {
+            "id": "62270991662a0900012189fe",
+            "name": "Day",
+            "slug": "day",
+            "field_type": "integer",
+            "module_collection": null,
+            "facet_values": ["1", "2", "3", "4"],
+            "is_main_query": true
+          },
+          {
+            "id": "62270991662a0900012189ff",
+            "name": "Role",
+            "slug": "role",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "Jasmine",
+              "Trey",
+              "Mariana",
+              "Khalil",
+              "Ash",
+              "Epidemiologist",
+              "Health Economist",
+              "Healthcare Data Analyst",
+              "Actuary",
+              "Certified Occupational Therapist Assistant",
+              "Product Manager",
+              "Health Education Specialist",
+              "Instructional Coordinator",
+              "Nonprofit Program Manager",
+              "Nurse"
+            ],
+            "is_main_query": false
+          }
+        ]
+      },
+      "module_session": null
+    },
+    {
+      "id": "6359923e662a09000121a84f",
+      "title": "Stress 4 Nurse",
+      "slug": "module-stress-4-nurse",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Nurse- Part 2",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": {
+        "id": "62270991662a090001218a00",
+        "title": "Stress Public Health Campaign",
+        "nickname": "Stress",
+        "field_to_display": "title",
+        "state": "unlocked",
+        "description": null,
+        "created_at": "2022-03-08T07:45:21.834Z",
+        "updated_at": "2023-01-13T14:31:53.376Z",
+        "module_categories": [
+          {
+            "id": "62270991662a0900012189fe",
+            "name": "Day",
+            "slug": "day",
+            "field_type": "integer",
+            "module_collection": null,
+            "facet_values": ["1", "2", "3", "4"],
+            "is_main_query": true
+          },
+          {
+            "id": "62270991662a0900012189ff",
+            "name": "Role",
+            "slug": "role",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "Jasmine",
+              "Trey",
+              "Mariana",
+              "Khalil",
+              "Ash",
+              "Epidemiologist",
+              "Health Economist",
+              "Healthcare Data Analyst",
+              "Actuary",
+              "Certified Occupational Therapist Assistant",
+              "Product Manager",
+              "Health Education Specialist",
+              "Instructional Coordinator",
+              "Nonprofit Program Manager",
+              "Nurse"
+            ],
+            "is_main_query": false
+          }
+        ]
+      },
+      "module_session": null
+    },
+    {
+      "id": "63599257662a09000121a852",
+      "title": "Stress 4 Nonprofit Program Manager",
+      "slug": "module-stress-4-nonprofit-program-manager",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Nonprofit Program Manager- Part 2",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": {
+        "id": "62270991662a090001218a00",
+        "title": "Stress Public Health Campaign",
+        "nickname": "Stress",
+        "field_to_display": "title",
+        "state": "unlocked",
+        "description": null,
+        "created_at": "2022-03-08T07:45:21.834Z",
+        "updated_at": "2023-01-13T14:31:53.376Z",
+        "module_categories": [
+          {
+            "id": "62270991662a0900012189fe",
+            "name": "Day",
+            "slug": "day",
+            "field_type": "integer",
+            "module_collection": null,
+            "facet_values": ["1", "2", "3", "4"],
+            "is_main_query": true
+          },
+          {
+            "id": "62270991662a0900012189ff",
+            "name": "Role",
+            "slug": "role",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "Jasmine",
+              "Trey",
+              "Mariana",
+              "Khalil",
+              "Ash",
+              "Epidemiologist",
+              "Health Economist",
+              "Healthcare Data Analyst",
+              "Actuary",
+              "Certified Occupational Therapist Assistant",
+              "Product Manager",
+              "Health Education Specialist",
+              "Instructional Coordinator",
+              "Nonprofit Program Manager",
+              "Nurse"
+            ],
+            "is_main_query": false
+          }
+        ]
+      },
+      "module_session": null
+    },
+    {
+      "id": "6359927a662a09000121a855",
+      "title": "Stress 4 Health Education Specialist",
+      "slug": "module-stress-4-health-education-specialist",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Health Education Specialist- Part 2",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": {
+        "id": "62270991662a090001218a00",
+        "title": "Stress Public Health Campaign",
+        "nickname": "Stress",
+        "field_to_display": "title",
+        "state": "unlocked",
+        "description": null,
+        "created_at": "2022-03-08T07:45:21.834Z",
+        "updated_at": "2023-01-13T14:31:53.376Z",
+        "module_categories": [
+          {
+            "id": "62270991662a0900012189fe",
+            "name": "Day",
+            "slug": "day",
+            "field_type": "integer",
+            "module_collection": null,
+            "facet_values": ["1", "2", "3", "4"],
+            "is_main_query": true
+          },
+          {
+            "id": "62270991662a0900012189ff",
+            "name": "Role",
+            "slug": "role",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "Jasmine",
+              "Trey",
+              "Mariana",
+              "Khalil",
+              "Ash",
+              "Epidemiologist",
+              "Health Economist",
+              "Healthcare Data Analyst",
+              "Actuary",
+              "Certified Occupational Therapist Assistant",
+              "Product Manager",
+              "Health Education Specialist",
+              "Instructional Coordinator",
+              "Nonprofit Program Manager",
+              "Nurse"
+            ],
+            "is_main_query": false
+          }
+        ]
+      },
+      "module_session": null
+    }
+  ],
+  "discussions": []
+}
+
+"updated_html_content": "<p style=\"text-align:center;\"><span style=\"color: #2582cd;font-size: 36px;\">What is a Product Manager (PM)?</span></p>\n<p></p>\n<p><span style=\"color: #2582cd;background-color: rgb(255,255,255);font-size: 24px;font-family: Lato, sans-serif;\">A PM is responsible for the development and launch of a successful technology product, such as an app. They begin with conducting research on what the customer’s problem is, and use that information to come up with a vision for the tech product that will solve that problem. Next, they develop a plan to build the product, and analyze data and feedback from users to refine the product. They must understand the technology (how it is built or coded), business (how it is profitable) and user experience (UX; how easy and useful it is to the consumer).</span></p>\n<p></p>\n<p></p>\n<img src=\"https://bioscann.s3.amazonaws.com/media/images/1664543713-Product_Manager_Infographic_v1.png\" alt=\"https://bioscann.s3.amazonaws.com/media/images/1664543713-Product_Manager_Infographic_v1.png\" style=\"height: auto;width: 100%\"/>\n<p></p>\n",

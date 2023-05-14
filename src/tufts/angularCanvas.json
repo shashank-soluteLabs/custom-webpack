@@ -1,0 +1,176 @@
+{
+  "id": "63c04feda0bc490001793d03",
+  "title": "Stress 3 Nurse Canvas",
+  "nickname": "Meeting Prep!",
+  "show_nickname": true,
+  "description": null,
+  "can_modify_attributes": false,
+  "keywords": null,
+  "slug": "stress-3-nurse-canvas",
+  "is_stopping_point": false,
+  "resource_type": "canvas",
+  "url": null,
+  "html_content": "<p><span id=\"docs-internal-guid-feee0511-7fff-5925-389d-f50cd03edb88\"><span style=\"background-color: transparent;vertical-align: baseline;\"><font size=\"5\"><font color=\"#2582CD\">Review the graph, complete the difference of impacts calculation, and mark the likelihood of long-term compliance. Then, answer the questions below so you are prepared for the presentation to the campaign team.</font></font></span></span></p>",
+  "created_at": "2023-01-12T18:22:37.892Z",
+  "updated_at": "2023-01-12T18:25:54.572Z",
+  "polls": [],
+  "author": {
+    "id": "5cc9fe08cfedb8000aa409ec",
+    "email": "jessicawilks88@gmail.com",
+    "first_name": "Admin",
+    "last_name": "Account",
+    "full_name": "Admin Account",
+    "role": "superadmin",
+    "avatar": {
+      "_id": "5cd0988289e623000ab68d46",
+      "created_at": "2019-05-06T20:26:42.156Z",
+      "deleted_at": null,
+      "folder": "media/images",
+      "key": "media/images/1557174402-tufts_logo.jpg",
+      "media_type": "resource",
+      "mediable_id": {
+        "$oid": "5cc9fe08cfedb8000aa409ec"
+      },
+      "mediable_type": "User",
+      "name": "1557174402-tufts_logo.jpg",
+      "original_media_id": null,
+      "owner_id": {
+        "$oid": "5cc9fe08cfedb8000aa409ec"
+      },
+      "path": "media/images/1557174402-tufts_logo.jpg",
+      "size": 0,
+      "type": "image",
+      "updated_at": "2019-05-06T20:26:42.226Z",
+      "id": "5cd0988289e623000ab68d46"
+    },
+    "gender": "male",
+    "birthday": null
+  },
+  "media": {
+    "id": "63c050b2a0bc490001793d0c",
+    "name": "1673547954-img.jpeg",
+    "type": "image",
+    "url": "https://bioscann.s3.amazonaws.com/media/images/1673547954-img.jpeg",
+    "created_at": "2023-01-12T18:25:54.272Z",
+    "updated_at": "2023-01-12T18:25:54.569Z",
+    "resized_media": {
+      "id": "63c051eea0bc497a0de6298e",
+      "name": "resized-1673547954-img.jpeg",
+      "type": "image",
+      "url": "https://bioscann.s3.amazonaws.com/media/resized/images/resized-1673547954-img.jpeg",
+      "created_at": "2023-01-12T18:31:10.972Z",
+      "updated_at": "2023-01-12T18:31:10.972Z",
+      "resized_media": null
+    }
+  },
+  "large_canvas_image": {
+    "id": "63c050b2a0bc490001793d0d",
+    "name": "1673547954-Nurse_canvas.png",
+    "type": "image",
+    "url": "https://bioscann.s3.amazonaws.com/media/images/1673547954-Nurse_canvas.png",
+    "created_at": "2023-01-12T18:25:54.479Z",
+    "updated_at": "2023-01-12T18:25:54.558Z",
+    "resized_media": null
+  },
+  "module_documents": [
+    {
+      "id": "63599141662a09000121a82d",
+      "title": "Stress 3 Nurse",
+      "slug": "module-stress-3-nurse",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Nurse",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": {
+        "id": "62270991662a090001218a00",
+        "title": "Stress Public Health Campaign",
+        "nickname": "Stress",
+        "field_to_display": "title",
+        "state": "unlocked",
+        "description": null,
+        "created_at": "2022-03-08T07:45:21.834Z",
+        "updated_at": "2023-01-13T14:31:53.376Z",
+        "module_categories": [
+          {
+            "id": "62270991662a0900012189fe",
+            "name": "Day",
+            "slug": "day",
+            "field_type": "integer",
+            "module_collection": null,
+            "facet_values": ["1", "2", "3", "4"],
+            "is_main_query": true
+          },
+          {
+            "id": "62270991662a0900012189ff",
+            "name": "Role",
+            "slug": "role",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "Jasmine",
+              "Trey",
+              "Mariana",
+              "Khalil",
+              "Ash",
+              "Epidemiologist",
+              "Health Economist",
+              "Healthcare Data Analyst",
+              "Actuary",
+              "Certified Occupational Therapist Assistant",
+              "Product Manager",
+              "Health Education Specialist",
+              "Instructional Coordinator",
+              "Nonprofit Program Manager",
+              "Nurse"
+            ],
+            "is_main_query": false
+          }
+        ]
+      },
+      "module_session": null
+    }
+  ],
+  "discussions": [
+    {
+      "id": "63c04feda0bc490001793d04",
+      "title": null,
+      "text": null,
+      "order": null,
+      "discussion_type": "canvas",
+      "latest_user_discussion_entry": null,
+      "media": null
+    },
+    {
+      "id": "63c04feda0bc490001793d05",
+      "title": "<p><span id=\"docs-internal-guid-e0bc5de3-7fff-a793-a501-265391e972f3\"><span style=\"background-color: transparent;vertical-align: baseline;\"><font size=\"5\"><font color=\"#CD7025\">Please describe this intervention.</font></font></span></span><br/></p>",
+      "text": null,
+      "order": 0,
+      "discussion_type": "text",
+      "latest_user_discussion_entry": null,
+      "media": null
+    },
+    {
+      "id": "63c04feda0bc490001793d06",
+      "title": "<p><span id=\"docs-internal-guid-78dac1b7-7fff-dfca-ff66-ec25fbfef222\"><span style=\"background-color: transparent;vertical-align: baseline;\"><font size=\"5\"><span id=\"docs-internal-guid-afbe18a4-7fff-5f4b-f2ac-18e175305864\"><span style=\"background-color: transparent;vertical-align: baseline;\"><font color=\"#CD7025\">Why are the Hassle Group’s results important to have? What does it tell us about the Gratitude Group?</font></span></span></font></span></span><br/></p>",
+      "text": null,
+      "order": 1,
+      "discussion_type": "text",
+      "latest_user_discussion_entry": null,
+      "media": null
+    },
+    {
+      "id": "63c04feda0bc490001793d07",
+      "title": "<p><span id=\"docs-internal-guid-43d56797-7fff-895d-ab82-8f1a15bbddd5\"><span style=\"background-color: transparent;vertical-align: baseline;\"><font color=\"#CD7025\" size=\"5\">What is the likelihood of long-term compliance for students at your school? Why did your group decide this?</font></span></span><br/></p>",
+      "text": null,
+      "order": 2,
+      "discussion_type": "text",
+      "latest_user_discussion_entry": null,
+      "media": null
+    }
+  ]
+}
