@@ -1,278 +1,159 @@
 {
-  "id": "63c6d9fca0bc49000179409d",
-  "title": "Stress 4 Poll",
-  "nickname": "Poll",
+  "id": "5dab54f1452c63000115f5c6",
+  "title": "3 canvas raltegravir 20/25",
+  "nickname": "Phase I trial results",
   "show_nickname": true,
   "description": null,
   "can_modify_attributes": false,
   "keywords": null,
-  "slug": "stress-4-poll-2",
+  "slug": "3-canvas-raltegravir-20-25-2",
   "is_stopping_point": false,
-  "resource_type": "poll",
+  "resource_type": "canvas",
   "url": null,
-  "html_content": "<p><font size=\"5\"><b><font color=\"#2582CD\">Day 4 Poll</font></b></font></p>",
-  "created_at": "2023-01-17T17:25:16.969Z",
-  "updated_at": "2023-01-17T17:31:52.875Z",
-  "polls": [
-    {
-      "id": "63c6d9fca0bc49000179409e",
-      "text": "",
-      "resource_id": "63c6d9fca0bc49000179409d",
-      "created_at": "2023-01-17T17:25:16.976Z",
-      "updated_at": "2023-01-17T17:25:16.976Z",
-      "author": {
-        "id": "5cc9fe08cfedb8000aa409ec",
-        "email": "jessicawilks88@gmail.com",
-        "first_name": "Admin",
-        "last_name": "Account",
-        "full_name": "Admin Account",
-        "role": "superadmin",
-        "avatar": {
-          "_id": "5cd0988289e623000ab68d46",
-          "created_at": "2019-05-06T20:26:42.156Z",
-          "deleted_at": null,
-          "folder": "media/images",
-          "key": "media/images/1557174402-tufts_logo.jpg",
-          "media_type": "resource",
-          "mediable_id": {
-            "$oid": "5cc9fe08cfedb8000aa409ec"
-          },
-          "mediable_type": "User",
-          "name": "1557174402-tufts_logo.jpg",
-          "original_media_id": null,
-          "owner_id": {
-            "$oid": "5cc9fe08cfedb8000aa409ec"
-          },
-          "path": "media/images/1557174402-tufts_logo.jpg",
-          "size": 0,
-          "type": "image",
-          "updated_at": "2019-05-06T20:26:42.226Z",
-          "id": "5cd0988289e623000ab68d46"
-        },
-        "gender": "male",
-        "birthday": null
-      },
-      "poll_questions": [
-        {
-          "id": "63c6d9fca0bc49000179409f",
-          "text": "<p><span style=\"color: #cd7025;background-color: rgb(255,255,255);font-size: 24px;font-family: Lato, sans-serif;\">Which stress-reducing intervention do we want to promote to students?</span></p>\n",
-          "score": null,
-          "order": 1,
-          "question_type": "bar_chart",
-          "allowed_answers_number": 1,
-          "created_at": "2023-01-17T17:31:52.976Z",
-          "updated_at": "2023-01-17T17:31:52.976Z",
-          "poll_question_options": [
-            {
-              "id": "63c6d9fca0bc4900017940a0",
-              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Mindfulness Curriculum</span></p>\n",
-              "order": null,
-              "is_correct": false,
-              "meta_responses": {
-                "average": 0,
-                "count": 0,
-                "total": 0
-              },
-              "created_at": "2023-01-17T17:31:52.961Z",
-              "updated_at": "2023-01-17T17:31:52.961Z"
-            },
-            {
-              "id": "63c6d9fca0bc4900017940a1",
-              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Stress reduction app</span></p>\n",
-              "order": null,
-              "is_correct": false,
-              "meta_responses": {
-                "average": 0,
-                "count": 0,
-                "total": 0
-              },
-              "created_at": "2023-01-17T17:31:52.964Z",
-              "updated_at": "2023-01-17T17:31:52.964Z"
-            },
-            {
-              "id": "63c6d9fca0bc4900017940a2",
-              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Exercise Program</span></p>\n",
-              "order": null,
-              "is_correct": false,
-              "meta_responses": {
-                "average": 0,
-                "count": 0,
-                "total": 0
-              },
-              "created_at": "2023-01-17T17:31:52.968Z",
-              "updated_at": "2023-01-17T17:31:52.968Z"
-            },
-            {
-              "id": "63c6d9fca0bc4900017940a3",
-              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Gratitude Journal</span></p>\n",
-              "order": null,
-              "is_correct": false,
-              "meta_responses": {
-                "average": 0,
-                "count": 0,
-                "total": 0
-              },
-              "created_at": "2023-01-17T17:31:52.971Z",
-              "updated_at": "2023-01-17T17:31:52.971Z"
-            },
-            {
-              "id": "63c6d9fca0bc4900017940a4",
-              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Getting out into nature</span></p>\n",
-              "order": null,
-              "is_correct": false,
-              "meta_responses": {
-                "average": 0,
-                "count": 0,
-                "total": 0
-              },
-              "created_at": "2023-01-17T17:31:52.974Z",
-              "updated_at": "2023-01-17T17:31:52.974Z"
-            }
-          ]
-        },
-        {
-          "id": "63c6d9fca0bc4900017940a5",
-          "text": "<p><span style=\"color: rgb(205,112,37);font-size: 24px;\">Which factor was most important in your decision?</span></p>\n",
-          "score": null,
-          "order": 2,
-          "question_type": "pie_chart",
-          "allowed_answers_number": 2,
-          "created_at": "2023-01-17T17:31:52.994Z",
-          "updated_at": "2023-01-17T17:31:52.994Z",
-          "poll_question_options": [
-            {
-              "id": "63c6d9fda0bc4900017940a6",
-              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Efficacy</span></p>\n",
-              "order": null,
-              "is_correct": false,
-              "meta_responses": {
-                "average": 0,
-                "count": 0,
-                "total": 0
-              },
-              "created_at": "2023-01-17T17:31:52.986Z",
-              "updated_at": "2023-01-17T17:31:52.986Z"
-            },
-            {
-              "id": "63c6d9fda0bc4900017940a7",
-              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;\">Feasibility</span></p>\n",
-              "order": null,
-              "is_correct": false,
-              "meta_responses": {
-                "average": 0,
-                "count": 0,
-                "total": 0
-              },
-              "created_at": "2023-01-17T17:31:52.989Z",
-              "updated_at": "2023-01-17T17:31:52.989Z"
-            },
-            {
-              "id": "63c6d9fda0bc4900017940a8",
-              "text": "<p><span style=\"color: rgb(37,130,205);font-size: 18px;font-family: Lato, sans-serif;\">Relevance</span></p>\n",
-              "order": null,
-              "is_correct": false,
-              "meta_responses": {
-                "average": 0,
-                "count": 0,
-                "total": 0
-              },
-              "created_at": "2023-01-17T17:31:52.993Z",
-              "updated_at": "2023-01-17T17:31:52.993Z"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "html_content": "<p style=\"font-size: 16px;\"><font color=\"#531b93\" size=\"5\"><b><b><b><br/></b></b></b></font></p><p style=\"font-size: 16px;\"><font color=\"#531b93\" size=\"5\"><b><b><b><br/></b></b></b></font></p><p style=\"font-size: 16px;\"><font color=\"#531b93\" size=\"5\"><b><b></b><b><b>Data analysis:</b></b></b></font></p><p style=\"font-size: 16px;\"><font color=\"#531b93\"><font size=\"4\">1) <b>DECIDE</b> which drugs to test in a Phase II/III trial.</font></font></p><p style=\"font-size: 16px;\"><font color=\"#531b93\"><font size=\"4\">2) <b>MARK </b>the best option(s).</font></font></p><p style=\"font-size: 16px;\"><font color=\"#531b93\" size=\"4\">3) <b><b><b>FILL IN</b></b></b> the discussion boxes below.</font></p><p style=\"font-size: 16px;\"><font color=\"#531b93\" size=\"4\">4) Hit the <b><b></b><b><b>“SUBMIT&#34;</b></b></b> button.</font></p><p></p>       ",
+  "created_at": "2019-10-19T18:24:49.901Z",
+  "updated_at": "2019-10-19T18:26:34.250Z",
+  "polls": [],
   "author": {
-    "id": "5cc9fe08cfedb8000aa409ec",
-    "email": "jessicawilks88@gmail.com",
+    "id": "5cc9fe51cfedb8000aa409ed",
+    "email": "emcdonou@gmail.com",
     "first_name": "Admin",
     "last_name": "Account",
     "full_name": "Admin Account",
     "role": "superadmin",
     "avatar": {
-      "_id": "5cd0988289e623000ab68d46",
-      "created_at": "2019-05-06T20:26:42.156Z",
+      "_id": "5cd0660bcffb4e000d53c8f5",
+      "created_at": "2019-05-06T16:51:23.523Z",
       "deleted_at": null,
       "folder": "media/images",
-      "key": "media/images/1557174402-tufts_logo.jpg",
+      "key": "media/images/1557161483-tufts_logo.jpg",
       "media_type": "resource",
       "mediable_id": {
-        "$oid": "5cc9fe08cfedb8000aa409ec"
+        "$oid": "5cc9fe51cfedb8000aa409ed"
       },
       "mediable_type": "User",
-      "name": "1557174402-tufts_logo.jpg",
+      "name": "1557161483-tufts_logo.jpg",
       "original_media_id": null,
       "owner_id": {
-        "$oid": "5cc9fe08cfedb8000aa409ec"
+        "$oid": "5cc9fe51cfedb8000aa409ed"
       },
-      "path": "media/images/1557174402-tufts_logo.jpg",
+      "path": "media/images/1557161483-tufts_logo.jpg",
       "size": 0,
       "type": "image",
-      "updated_at": "2019-05-06T20:26:42.226Z",
-      "id": "5cd0988289e623000ab68d46"
+      "updated_at": "2019-05-06T16:51:23.602Z",
+      "id": "5cd0660bcffb4e000d53c8f5"
     },
     "gender": "male",
     "birthday": null
   },
-  "media": null,
-  "large_canvas_image": null,
+  "media": {
+    "id": "5dab5558452c63000115f5cc",
+    "name": "1571509592-img.jpeg",
+    "type": "image",
+    "url": "https://bioscann.s3.amazonaws.com/media/images/1571509592-img.jpeg",
+    "created_at": "2019-10-19T18:26:32.305Z",
+    "updated_at": "2019-10-19T18:26:34.246Z",
+    "resized_media": {
+      "id": "5dc34321327ddf00224c9744",
+      "name": "resized-1571509592-img.jpeg",
+      "type": "image",
+      "url": "https://bioscann.s3.amazonaws.com/media/resized/images/resized-1571509592-img.jpeg",
+      "created_at": "2019-11-06T22:03:13.081Z",
+      "updated_at": "2019-11-06T22:03:13.081Z",
+      "resized_media": null
+    }
+  },
+  "large_canvas_image": {
+    "id": "5dab5559452c63000115f5cd",
+    "name": "1571509593-Day4_Shareout_Raltegravir_v7_ZOOM.png",
+    "type": "image",
+    "url": "https://bioscann.s3.amazonaws.com/media/images/1571509593-Day4_Shareout_Raltegravir_v7_ZOOM.png",
+    "created_at": "2019-10-19T18:26:33.949Z",
+    "updated_at": "2019-10-19T18:26:34.235Z",
+    "resized_media": null
+  },
   "module_documents": [
     {
-      "id": "635991ec662a09000121a849",
-      "title": "Stress 4 Product Manager",
-      "slug": "module-stress-4-product-manager",
+      "id": "5ce413614c2d62000ae78d27",
+      "title": "3 group 1 Raltegravir",
+      "slug": "module-3-group-1-raltegravir",
       "drug": null,
       "days": null,
       "role": null,
       "description": null,
-      "nickname": "Product Manager- Part 2",
+      "nickname": "Phase I Trials",
       "keywords": null,
       "access_permission": "student",
       "use_type": "primary",
       "visibility": "public",
       "module_set": {
-        "id": "62270991662a090001218a00",
-        "title": "Stress Public Health Campaign",
-        "nickname": "Stress",
+        "id": "5ce40417a64ee5000a0f8cb5",
+        "title": "HIV",
+        "nickname": "HIV",
         "field_to_display": "title",
         "state": "unlocked",
         "description": null,
-        "created_at": "2022-03-08T07:45:21.834Z",
-        "updated_at": "2023-01-13T14:31:53.376Z",
+        "created_at": "2019-05-21T13:58:47.975Z",
+        "updated_at": "2023-01-30T17:00:04.650Z",
         "module_categories": [
           {
-            "id": "62270991662a0900012189fe",
+            "id": "5ce409fda64ee5000a0f8cc1",
             "name": "Day",
             "slug": "day",
             "field_type": "integer",
             "module_collection": null,
-            "facet_values": ["1", "2", "3", "4"],
+            "facet_values": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
             "is_main_query": true
           },
           {
-            "id": "62270991662a0900012189ff",
+            "id": "5ce409fda64ee5000a0f8cc2",
+            "name": "Drug",
+            "slug": "drug",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "no drug",
+              "Raltegravir",
+              "Etravirine",
+              "PRO 542"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc3",
             "name": "Role",
             "slug": "role",
             "field_type": "text",
             "module_collection": null,
             "facet_values": [
-              "Jasmine",
-              "Trey",
-              "Mariana",
-              "Khalil",
-              "Ash",
-              "Epidemiologist",
-              "Health Economist",
-              "Healthcare Data Analyst",
-              "Actuary",
-              "Certified Occupational Therapist Assistant",
-              "Product Manager",
-              "Health Education Specialist",
-              "Instructional Coordinator",
-              "Nonprofit Program Manager",
-              "Nurse"
+              "Lisa",
+              "Lisa's partner",
+              "Lisa's doctor",
+              "Lisa's psychologist",
+              "Lisa's social worker",
+              "Animal Care Technician",
+              "Financial Consultant",
+              "Research Scientist",
+              "Toxicologist",
+              "Medicinal Chemist",
+              "Group 1",
+              "Clinical Trial Nurse",
+              "Clinical Trial Physician",
+              "Strategic marketer",
+              "Data scientist",
+              "Financial consultant",
+              "Group 2",
+              "Group3",
+              "Group 4",
+              "Group 5",
+              "Group 3",
+              "Clinical trial nurse",
+              "Clinical trial physician"
             ],
             "is_main_query": false
           }
@@ -281,59 +162,86 @@
       "module_session": null
     },
     {
-      "id": "6359922b662a09000121a84c",
-      "title": "Stress 4 Instructional Coordinator",
-      "slug": "module-stress-4-instructional-coordinator",
+      "id": "5d0a8ba7d854f2000fe7bf41",
+      "title": "3 group 2 Raltegravir",
+      "slug": "module-3-group-2-raltegravir-2",
       "drug": null,
       "days": null,
       "role": null,
       "description": null,
-      "nickname": "Instructional Coordinator- Part 2",
+      "nickname": "Phase I Trials",
       "keywords": null,
       "access_permission": "student",
       "use_type": "primary",
       "visibility": "public",
       "module_set": {
-        "id": "62270991662a090001218a00",
-        "title": "Stress Public Health Campaign",
-        "nickname": "Stress",
+        "id": "5ce40417a64ee5000a0f8cb5",
+        "title": "HIV",
+        "nickname": "HIV",
         "field_to_display": "title",
         "state": "unlocked",
         "description": null,
-        "created_at": "2022-03-08T07:45:21.834Z",
-        "updated_at": "2023-01-13T14:31:53.376Z",
+        "created_at": "2019-05-21T13:58:47.975Z",
+        "updated_at": "2023-01-30T17:00:04.650Z",
         "module_categories": [
           {
-            "id": "62270991662a0900012189fe",
+            "id": "5ce409fda64ee5000a0f8cc1",
             "name": "Day",
             "slug": "day",
             "field_type": "integer",
             "module_collection": null,
-            "facet_values": ["1", "2", "3", "4"],
+            "facet_values": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
             "is_main_query": true
           },
           {
-            "id": "62270991662a0900012189ff",
+            "id": "5ce409fda64ee5000a0f8cc2",
+            "name": "Drug",
+            "slug": "drug",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "no drug",
+              "Raltegravir",
+              "Etravirine",
+              "PRO 542"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc3",
             "name": "Role",
             "slug": "role",
             "field_type": "text",
             "module_collection": null,
             "facet_values": [
-              "Jasmine",
-              "Trey",
-              "Mariana",
-              "Khalil",
-              "Ash",
-              "Epidemiologist",
-              "Health Economist",
-              "Healthcare Data Analyst",
-              "Actuary",
-              "Certified Occupational Therapist Assistant",
-              "Product Manager",
-              "Health Education Specialist",
-              "Instructional Coordinator",
-              "Nonprofit Program Manager",
-              "Nurse"
+              "Lisa",
+              "Lisa's partner",
+              "Lisa's doctor",
+              "Lisa's psychologist",
+              "Lisa's social worker",
+              "Animal Care Technician",
+              "Financial Consultant",
+              "Research Scientist",
+              "Toxicologist",
+              "Medicinal Chemist",
+              "Group 1",
+              "Clinical Trial Nurse",
+              "Clinical Trial Physician",
+              "Strategic marketer",
+              "Data scientist",
+              "Financial consultant",
+              "Group 2",
+              "Group3",
+              "Group 4",
+              "Group 5",
+              "Group 3",
+              "Clinical trial nurse",
+              "Clinical trial physician"
             ],
             "is_main_query": false
           }
@@ -342,59 +250,86 @@
       "module_session": null
     },
     {
-      "id": "6359923e662a09000121a84f",
-      "title": "Stress 4 Nurse",
-      "slug": "module-stress-4-nurse",
+      "id": "5d0a8be23ced43000a4f86e6",
+      "title": "3 group 3 Raltegravir",
+      "slug": "module-3-group-3-raltegravir",
       "drug": null,
       "days": null,
       "role": null,
       "description": null,
-      "nickname": "Nurse- Part 2",
+      "nickname": "Phase I Trials",
       "keywords": null,
       "access_permission": "student",
       "use_type": "primary",
       "visibility": "public",
       "module_set": {
-        "id": "62270991662a090001218a00",
-        "title": "Stress Public Health Campaign",
-        "nickname": "Stress",
+        "id": "5ce40417a64ee5000a0f8cb5",
+        "title": "HIV",
+        "nickname": "HIV",
         "field_to_display": "title",
         "state": "unlocked",
         "description": null,
-        "created_at": "2022-03-08T07:45:21.834Z",
-        "updated_at": "2023-01-13T14:31:53.376Z",
+        "created_at": "2019-05-21T13:58:47.975Z",
+        "updated_at": "2023-01-30T17:00:04.650Z",
         "module_categories": [
           {
-            "id": "62270991662a0900012189fe",
+            "id": "5ce409fda64ee5000a0f8cc1",
             "name": "Day",
             "slug": "day",
             "field_type": "integer",
             "module_collection": null,
-            "facet_values": ["1", "2", "3", "4"],
+            "facet_values": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
             "is_main_query": true
           },
           {
-            "id": "62270991662a0900012189ff",
+            "id": "5ce409fda64ee5000a0f8cc2",
+            "name": "Drug",
+            "slug": "drug",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "no drug",
+              "Raltegravir",
+              "Etravirine",
+              "PRO 542"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc3",
             "name": "Role",
             "slug": "role",
             "field_type": "text",
             "module_collection": null,
             "facet_values": [
-              "Jasmine",
-              "Trey",
-              "Mariana",
-              "Khalil",
-              "Ash",
-              "Epidemiologist",
-              "Health Economist",
-              "Healthcare Data Analyst",
-              "Actuary",
-              "Certified Occupational Therapist Assistant",
-              "Product Manager",
-              "Health Education Specialist",
-              "Instructional Coordinator",
-              "Nonprofit Program Manager",
-              "Nurse"
+              "Lisa",
+              "Lisa's partner",
+              "Lisa's doctor",
+              "Lisa's psychologist",
+              "Lisa's social worker",
+              "Animal Care Technician",
+              "Financial Consultant",
+              "Research Scientist",
+              "Toxicologist",
+              "Medicinal Chemist",
+              "Group 1",
+              "Clinical Trial Nurse",
+              "Clinical Trial Physician",
+              "Strategic marketer",
+              "Data scientist",
+              "Financial consultant",
+              "Group 2",
+              "Group3",
+              "Group 4",
+              "Group 5",
+              "Group 3",
+              "Clinical trial nurse",
+              "Clinical trial physician"
             ],
             "is_main_query": false
           }
@@ -403,59 +338,86 @@
       "module_session": null
     },
     {
-      "id": "63599257662a09000121a852",
-      "title": "Stress 4 Nonprofit Program Manager",
-      "slug": "module-stress-4-nonprofit-program-manager",
+      "id": "5d0a8c02d854f2000fe7bf50",
+      "title": "3 group 4 Raltegravir",
+      "slug": "module-3-group-4-raltegravir",
       "drug": null,
       "days": null,
       "role": null,
       "description": null,
-      "nickname": "Nonprofit Program Manager- Part 2",
+      "nickname": "Phase I Trials",
       "keywords": null,
       "access_permission": "student",
       "use_type": "primary",
       "visibility": "public",
       "module_set": {
-        "id": "62270991662a090001218a00",
-        "title": "Stress Public Health Campaign",
-        "nickname": "Stress",
+        "id": "5ce40417a64ee5000a0f8cb5",
+        "title": "HIV",
+        "nickname": "HIV",
         "field_to_display": "title",
         "state": "unlocked",
         "description": null,
-        "created_at": "2022-03-08T07:45:21.834Z",
-        "updated_at": "2023-01-13T14:31:53.376Z",
+        "created_at": "2019-05-21T13:58:47.975Z",
+        "updated_at": "2023-01-30T17:00:04.650Z",
         "module_categories": [
           {
-            "id": "62270991662a0900012189fe",
+            "id": "5ce409fda64ee5000a0f8cc1",
             "name": "Day",
             "slug": "day",
             "field_type": "integer",
             "module_collection": null,
-            "facet_values": ["1", "2", "3", "4"],
+            "facet_values": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
             "is_main_query": true
           },
           {
-            "id": "62270991662a0900012189ff",
+            "id": "5ce409fda64ee5000a0f8cc2",
+            "name": "Drug",
+            "slug": "drug",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "no drug",
+              "Raltegravir",
+              "Etravirine",
+              "PRO 542"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc3",
             "name": "Role",
             "slug": "role",
             "field_type": "text",
             "module_collection": null,
             "facet_values": [
-              "Jasmine",
-              "Trey",
-              "Mariana",
-              "Khalil",
-              "Ash",
-              "Epidemiologist",
-              "Health Economist",
-              "Healthcare Data Analyst",
-              "Actuary",
-              "Certified Occupational Therapist Assistant",
-              "Product Manager",
-              "Health Education Specialist",
-              "Instructional Coordinator",
-              "Nonprofit Program Manager",
-              "Nurse"
+              "Lisa",
+              "Lisa's partner",
+              "Lisa's doctor",
+              "Lisa's psychologist",
+              "Lisa's social worker",
+              "Animal Care Technician",
+              "Financial Consultant",
+              "Research Scientist",
+              "Toxicologist",
+              "Medicinal Chemist",
+              "Group 1",
+              "Clinical Trial Nurse",
+              "Clinical Trial Physician",
+              "Strategic marketer",
+              "Data scientist",
+              "Financial consultant",
+              "Group 2",
+              "Group3",
+              "Group 4",
+              "Group 5",
+              "Group 3",
+              "Clinical trial nurse",
+              "Clinical trial physician"
             ],
             "is_main_query": false
           }
@@ -464,66 +426,650 @@
       "module_session": null
     },
     {
-      "id": "6359927a662a09000121a855",
-      "title": "Stress 4 Health Education Specialist",
-      "slug": "module-stress-4-health-education-specialist",
+      "id": "5d0a8c1ad854f2000fe7bf5c",
+      "title": "3 group 5 Raltegravir",
+      "slug": "module-3-group-5-raltegravir",
       "drug": null,
       "days": null,
       "role": null,
       "description": null,
-      "nickname": "Health Education Specialist- Part 2",
+      "nickname": "Phase I Trials",
       "keywords": null,
       "access_permission": "student",
       "use_type": "primary",
       "visibility": "public",
       "module_set": {
-        "id": "62270991662a090001218a00",
-        "title": "Stress Public Health Campaign",
-        "nickname": "Stress",
+        "id": "5ce40417a64ee5000a0f8cb5",
+        "title": "HIV",
+        "nickname": "HIV",
         "field_to_display": "title",
         "state": "unlocked",
         "description": null,
-        "created_at": "2022-03-08T07:45:21.834Z",
-        "updated_at": "2023-01-13T14:31:53.376Z",
+        "created_at": "2019-05-21T13:58:47.975Z",
+        "updated_at": "2023-01-30T17:00:04.650Z",
         "module_categories": [
           {
-            "id": "62270991662a0900012189fe",
+            "id": "5ce409fda64ee5000a0f8cc1",
             "name": "Day",
             "slug": "day",
             "field_type": "integer",
             "module_collection": null,
-            "facet_values": ["1", "2", "3", "4"],
+            "facet_values": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
             "is_main_query": true
           },
           {
-            "id": "62270991662a0900012189ff",
+            "id": "5ce409fda64ee5000a0f8cc2",
+            "name": "Drug",
+            "slug": "drug",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "no drug",
+              "Raltegravir",
+              "Etravirine",
+              "PRO 542"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc3",
             "name": "Role",
             "slug": "role",
             "field_type": "text",
             "module_collection": null,
             "facet_values": [
-              "Jasmine",
-              "Trey",
-              "Mariana",
-              "Khalil",
-              "Ash",
-              "Epidemiologist",
-              "Health Economist",
-              "Healthcare Data Analyst",
-              "Actuary",
-              "Certified Occupational Therapist Assistant",
-              "Product Manager",
-              "Health Education Specialist",
-              "Instructional Coordinator",
-              "Nonprofit Program Manager",
-              "Nurse"
+              "Lisa",
+              "Lisa's partner",
+              "Lisa's doctor",
+              "Lisa's psychologist",
+              "Lisa's social worker",
+              "Animal Care Technician",
+              "Financial Consultant",
+              "Research Scientist",
+              "Toxicologist",
+              "Medicinal Chemist",
+              "Group 1",
+              "Clinical Trial Nurse",
+              "Clinical Trial Physician",
+              "Strategic marketer",
+              "Data scientist",
+              "Financial consultant",
+              "Group 2",
+              "Group3",
+              "Group 4",
+              "Group 5",
+              "Group 3",
+              "Clinical trial nurse",
+              "Clinical trial physician"
             ],
             "is_main_query": false
           }
         ]
       },
+      "module_session": null
+    },
+    {
+      "id": "5d77ff284b71f0000a0a8fbc",
+      "title": "3 group 1 Raltegravir infographics",
+      "slug": "module-3-group-1-raltegravir-infographics",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Phase I Trials",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": {
+        "id": "5d77ff274b71f0000a0a8f23",
+        "title": "HIV-infographics",
+        "nickname": "HIV",
+        "field_to_display": "title",
+        "state": "locked",
+        "description": null,
+        "created_at": "2019-09-10T19:53:11.777Z",
+        "updated_at": "2023-03-20T13:44:25.373Z",
+        "module_categories": [
+          {
+            "id": "5ce409fda64ee5000a0f8cc1",
+            "name": "Day",
+            "slug": "day",
+            "field_type": "integer",
+            "module_collection": null,
+            "facet_values": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc2",
+            "name": "Drug",
+            "slug": "drug",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "no drug",
+              "Raltegravir",
+              "Etravirine",
+              "PRO 542"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc3",
+            "name": "Role",
+            "slug": "role",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "Lisa",
+              "Lisa's partner",
+              "Lisa's doctor",
+              "Lisa's psychologist",
+              "Lisa's social worker",
+              "Animal Care Technician",
+              "Financial Consultant",
+              "Research Scientist",
+              "Toxicologist",
+              "Medicinal Chemist",
+              "Group 1",
+              "Clinical Trial Nurse",
+              "Clinical Trial Physician",
+              "Strategic marketer",
+              "Data scientist",
+              "Financial consultant",
+              "Group 2",
+              "Group3",
+              "Group 4",
+              "Group 5",
+              "Group 3",
+              "Clinical trial nurse",
+              "Clinical trial physician"
+            ],
+            "is_main_query": false
+          }
+        ]
+      },
+      "module_session": null
+    },
+    {
+      "id": "5d77ff294b71f0000a0a9015",
+      "title": "3 group 2 Raltegravir infographics",
+      "slug": "module-3-group-2-raltegravir-infographics",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Phase I Trials",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": {
+        "id": "5d77ff274b71f0000a0a8f23",
+        "title": "HIV-infographics",
+        "nickname": "HIV",
+        "field_to_display": "title",
+        "state": "locked",
+        "description": null,
+        "created_at": "2019-09-10T19:53:11.777Z",
+        "updated_at": "2023-03-20T13:44:25.373Z",
+        "module_categories": [
+          {
+            "id": "5ce409fda64ee5000a0f8cc1",
+            "name": "Day",
+            "slug": "day",
+            "field_type": "integer",
+            "module_collection": null,
+            "facet_values": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc2",
+            "name": "Drug",
+            "slug": "drug",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "no drug",
+              "Raltegravir",
+              "Etravirine",
+              "PRO 542"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc3",
+            "name": "Role",
+            "slug": "role",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "Lisa",
+              "Lisa's partner",
+              "Lisa's doctor",
+              "Lisa's psychologist",
+              "Lisa's social worker",
+              "Animal Care Technician",
+              "Financial Consultant",
+              "Research Scientist",
+              "Toxicologist",
+              "Medicinal Chemist",
+              "Group 1",
+              "Clinical Trial Nurse",
+              "Clinical Trial Physician",
+              "Strategic marketer",
+              "Data scientist",
+              "Financial consultant",
+              "Group 2",
+              "Group3",
+              "Group 4",
+              "Group 5",
+              "Group 3",
+              "Clinical trial nurse",
+              "Clinical trial physician"
+            ],
+            "is_main_query": false
+          }
+        ]
+      },
+      "module_session": null
+    },
+    {
+      "id": "5d77ff294b71f0000a0a9021",
+      "title": "3 group 3 Raltegravir infographics",
+      "slug": "module-3-group-3-raltegravir-infographics",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Phase I Trials",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": {
+        "id": "5d77ff274b71f0000a0a8f23",
+        "title": "HIV-infographics",
+        "nickname": "HIV",
+        "field_to_display": "title",
+        "state": "locked",
+        "description": null,
+        "created_at": "2019-09-10T19:53:11.777Z",
+        "updated_at": "2023-03-20T13:44:25.373Z",
+        "module_categories": [
+          {
+            "id": "5ce409fda64ee5000a0f8cc1",
+            "name": "Day",
+            "slug": "day",
+            "field_type": "integer",
+            "module_collection": null,
+            "facet_values": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc2",
+            "name": "Drug",
+            "slug": "drug",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "no drug",
+              "Raltegravir",
+              "Etravirine",
+              "PRO 542"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc3",
+            "name": "Role",
+            "slug": "role",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "Lisa",
+              "Lisa's partner",
+              "Lisa's doctor",
+              "Lisa's psychologist",
+              "Lisa's social worker",
+              "Animal Care Technician",
+              "Financial Consultant",
+              "Research Scientist",
+              "Toxicologist",
+              "Medicinal Chemist",
+              "Group 1",
+              "Clinical Trial Nurse",
+              "Clinical Trial Physician",
+              "Strategic marketer",
+              "Data scientist",
+              "Financial consultant",
+              "Group 2",
+              "Group3",
+              "Group 4",
+              "Group 5",
+              "Group 3",
+              "Clinical trial nurse",
+              "Clinical trial physician"
+            ],
+            "is_main_query": false
+          }
+        ]
+      },
+      "module_session": null
+    },
+    {
+      "id": "5d77ff294b71f0000a0a902d",
+      "title": "3 group 4 Raltegravir infographics",
+      "slug": "module-3-group-4-raltegravir-infographics",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Phase I Trials",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": {
+        "id": "5d77ff274b71f0000a0a8f23",
+        "title": "HIV-infographics",
+        "nickname": "HIV",
+        "field_to_display": "title",
+        "state": "locked",
+        "description": null,
+        "created_at": "2019-09-10T19:53:11.777Z",
+        "updated_at": "2023-03-20T13:44:25.373Z",
+        "module_categories": [
+          {
+            "id": "5ce409fda64ee5000a0f8cc1",
+            "name": "Day",
+            "slug": "day",
+            "field_type": "integer",
+            "module_collection": null,
+            "facet_values": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc2",
+            "name": "Drug",
+            "slug": "drug",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "no drug",
+              "Raltegravir",
+              "Etravirine",
+              "PRO 542"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc3",
+            "name": "Role",
+            "slug": "role",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "Lisa",
+              "Lisa's partner",
+              "Lisa's doctor",
+              "Lisa's psychologist",
+              "Lisa's social worker",
+              "Animal Care Technician",
+              "Financial Consultant",
+              "Research Scientist",
+              "Toxicologist",
+              "Medicinal Chemist",
+              "Group 1",
+              "Clinical Trial Nurse",
+              "Clinical Trial Physician",
+              "Strategic marketer",
+              "Data scientist",
+              "Financial consultant",
+              "Group 2",
+              "Group3",
+              "Group 4",
+              "Group 5",
+              "Group 3",
+              "Clinical trial nurse",
+              "Clinical trial physician"
+            ],
+            "is_main_query": false
+          }
+        ]
+      },
+      "module_session": null
+    },
+    {
+      "id": "5d77ff294b71f0000a0a9039",
+      "title": "3 group 5 Raltegravir infographics",
+      "slug": "module-3-group-5-raltegravir-infographics",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Phase I Trials",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": {
+        "id": "5d77ff274b71f0000a0a8f23",
+        "title": "HIV-infographics",
+        "nickname": "HIV",
+        "field_to_display": "title",
+        "state": "locked",
+        "description": null,
+        "created_at": "2019-09-10T19:53:11.777Z",
+        "updated_at": "2023-03-20T13:44:25.373Z",
+        "module_categories": [
+          {
+            "id": "5ce409fda64ee5000a0f8cc1",
+            "name": "Day",
+            "slug": "day",
+            "field_type": "integer",
+            "module_collection": null,
+            "facet_values": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc2",
+            "name": "Drug",
+            "slug": "drug",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "no drug",
+              "Raltegravir",
+              "Etravirine",
+              "PRO 542"
+            ],
+            "is_main_query": true
+          },
+          {
+            "id": "5ce409fda64ee5000a0f8cc3",
+            "name": "Role",
+            "slug": "role",
+            "field_type": "text",
+            "module_collection": null,
+            "facet_values": [
+              "Lisa",
+              "Lisa's partner",
+              "Lisa's doctor",
+              "Lisa's psychologist",
+              "Lisa's social worker",
+              "Animal Care Technician",
+              "Financial Consultant",
+              "Research Scientist",
+              "Toxicologist",
+              "Medicinal Chemist",
+              "Group 1",
+              "Clinical Trial Nurse",
+              "Clinical Trial Physician",
+              "Strategic marketer",
+              "Data scientist",
+              "Financial consultant",
+              "Group 2",
+              "Group3",
+              "Group 4",
+              "Group 5",
+              "Group 3",
+              "Clinical trial nurse",
+              "Clinical trial physician"
+            ],
+            "is_main_query": false
+          }
+        ]
+      },
+      "module_session": null
+    },
+    {
+      "id": "5f6325c28757ff0001d4c0b8",
+      "title": "test 3 group 1 Raltegravir",
+      "slug": "module-test-3-group-1-raltegravir",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Phase I Trials",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": null,
+      "module_session": null
+    },
+    {
+      "id": "5f6325c28757ff0001d4c10f",
+      "title": "test 3 group 2 Raltegravir",
+      "slug": "module-test-3-group-2-raltegravir",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Phase I Trials",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": null,
+      "module_session": null
+    },
+    {
+      "id": "5f6325c38757ff0001d4c11e",
+      "title": "test 3 group 3 Raltegravir",
+      "slug": "module-test-3-group-3-raltegravir",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Phase I Trials",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": null,
+      "module_session": null
+    },
+    {
+      "id": "5f6325c38757ff0001d4c12d",
+      "title": "test 3 group 4 Raltegravir",
+      "slug": "module-test-3-group-4-raltegravir",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Phase I Trials",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": null,
+      "module_session": null
+    },
+    {
+      "id": "5f6325c38757ff0001d4c13c",
+      "title": "test 3 group 5 Raltegravir",
+      "slug": "module-test-3-group-5-raltegravir",
+      "drug": null,
+      "days": null,
+      "role": null,
+      "description": null,
+      "nickname": "Phase I Trials",
+      "keywords": null,
+      "access_permission": "student",
+      "use_type": "primary",
+      "visibility": "public",
+      "module_set": null,
       "module_session": null
     }
   ],
-  "discussions": []
+  "discussions": [
+    {
+      "id": "5dab54f1452c63000115f5c7",
+      "title": "<p><font color=\"#531b93\" size=\"5\">What is important about the grey dotted line on the line graphs?<font></font></font></p>",
+      "text": null,
+      "order": null,
+      "discussion_type": "text",
+      "latest_user_discussion_entry": null,
+      "media": null
+    },
+    {
+      "id": "5dab54f1452c63000115f5c8",
+      "title": "<p><font color=\"#531b93\" size=\"5\">Why are we only looking at class III and IV adverse events?<font></font></font></p><p><br/></p>",
+      "text": null,
+      "order": null,
+      "discussion_type": "text",
+      "latest_user_discussion_entry": null,
+      "media": null
+    },
+    {
+      "id": "5dab54f1452c63000115f5c9",
+      "title": "<p><font color=\"#531b93\" size=\"5\">How does your chosen drug compare to the Standard of Care?<font></font></font></p>",
+      "text": null,
+      "order": null,
+      "discussion_type": "text",
+      "latest_user_discussion_entry": null,
+      "media": null
+    },
+    {
+      "id": "5dab54f1452c63000115f5ca",
+      "title": null,
+      "text": null,
+      "order": null,
+      "discussion_type": "canvas",
+      "latest_user_discussion_entry": null,
+      "media": null
+    }
+  ]
 }
